@@ -32,7 +32,7 @@ The objective is to analyze passenger information, identify patterns, visualize 
 
 ## Files Included
 
-- Titanic_EDA.ipynb
+- Task5.ipynb
 - train.csv
 - Report.pdf
 - README.md
